@@ -1,7 +1,0 @@
-JDK 8 : https://www.oracle.com/downloads/index.html
-이클립스 : http://www.eclipse.org/downloads/
-VirtualBox : https://www.virtualbox.org/
-PuTTY : http://www.putty.org
-파일질라 : https://filezilla-project.org/download.php
-
-실습코드 : https://github.com/wikibook/bigdata2nd/
